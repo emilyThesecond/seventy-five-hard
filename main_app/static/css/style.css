@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(230, 141, 141);
+    color: brown;
+    min-height: 100vh;
+}
+footer.page-footer {
+    padding-top: 0;
+    text-align: right;
+}
