@@ -9,3 +9,6 @@ def about(request):
 
 def diet(request):
     return render(request, 'diet.html')
+
+def gallery(request):
+    return render(request, 'gallery.html')
