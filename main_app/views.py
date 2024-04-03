@@ -12,3 +12,6 @@ def diet(request):
 
 def gallery(request):
     return render(request, 'gallery.html')
+
+def rules(request):
+    return render(request, 'rules.html')
